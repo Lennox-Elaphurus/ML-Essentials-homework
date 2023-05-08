@@ -1,5 +1,10 @@
 # ML-Essentials-homework
 
+## Authors
+- Sima Esmaeili
+- Shruti Ghargi
+- Tuoxing Liu
+
 ## Repository guidelines
 
 I (Lennox) recommend following guidelines to keep our repo clean and conflict-free.
